@@ -5,3 +5,6 @@ https://github.com/chinasaokolo/csGraduateApps
 
 ## Fellowships & Scholarships
 https://github.com/chinasaokolo/csGraduateFellowships
+
+## Podcasts/Videos
+https://nlphighlights.allennlp.org/
