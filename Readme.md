@@ -17,3 +17,6 @@ https://nlphighlights.allennlp.org/
 
 ## How To Do Research?
 - [Advice on how to transition from student researcher to researcher](https://medium.com/@paul.niehaus/doing-research-18cb310529e0)
+
+## Reflections On PhD Experience
+- [Mathira Raghu](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/) (Cornell, Computer Science)
